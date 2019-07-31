@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ETDyAQoFeik74vjsi/videoblocks-falling-emoji-signs-animation-rendering-background-with-alpha-channel-loop-4k_rny4bwubz_thumbnail-full01.png');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
