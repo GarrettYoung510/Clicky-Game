@@ -1,9 +1,9 @@
-# Simpsons Clicky Game
+# Emoji Clicky Game
 
-#### Test your memory with your favorite friends from *The Simpsons*.
+#### Test your memory of emojis.
 
-#### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
+#### Click on each emoji once to win the game. But don't click on the same emoji twice!
 
-#### Built with React. Check it out [here](https://wllm-chndlr.github.io/clicky-game/).
+#### Built with React. Check it out [here]( ).
 
-![screenshot](public/screenshot.png)
+![screenshot](https://i.lensdump.com/i/i8fq7q.png)
