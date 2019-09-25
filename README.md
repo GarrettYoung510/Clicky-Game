@@ -1,4 +1,4 @@
-# Emoji Clicky Game
+# [Emoji Clicky Game](https://github.com/GarrettYoung510/Clicky-Game)
 
 #### Test your memory of emojis.
 
