@@ -6,4 +6,4 @@
 
 #### Built with react and deployed with GitHub pages. Check it out [HERE](https://garrettyoung510.github.io/Clicky-Game/)
 
-![screenshot](https://i.lensdump.com/i/i8fq7q.png)
+![preview](https://media.giphy.com/media/YRznw0ijmfIaWxGdqe/giphy.gif)
